@@ -5,7 +5,6 @@
 💻 Past experience includes building Grafana dashboards for kdb+ processes at an investment bank, and working as a Full-Stack Engineering Intern at a startup using the PERN stack  
 🤖 Currently developing teleoperation systems for robotics
 🇯🇵 Fluent in English and Japanese
-
 ---
 
 ### Recent Projects
