@@ -7,6 +7,14 @@
 - 🇯🇵 Fluent in English and Japanese
 
 ---
+### Experience
+- 🏦 **Software Engineering Intern — SMBC Nikko Securities (Tokyo)**  
+  Built Grafana dashboards for kdb+ trading processes and system metrics observability.  
+- 💻 **Full-Stack Engineering Intern — WorkX (Startup)**  
+  Developed and deployed PERN-stack applications and REST APIs for internal tools.
+
+
+---
 
 ### Recent Projects
 - 🔍 **KDB Observability Dashboard** — metrics and Grafana dashboards for kdb+ processes  
