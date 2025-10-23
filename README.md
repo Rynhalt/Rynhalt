@@ -18,7 +18,7 @@
 - 🔍 **KDB Observability Dashboard** — metrics and Grafana dashboards for kdb+ processes  
 - 🤖 **ROS2 Rover Simulation** — tele-operation and testing for Mars rover control  
 - 🧥 **FitCheckBU** — sustainable clothing-swap app built with Firebase, Cloud Vision, and Ionic + Next.js  
-- 🎧 **Echodio AI** — Lo-Fi music generator with weather-based visuals  
+- 🎧 **Echodio AI** — AI Lo-Fi music/background generator with inputs based om time, weather, genre,  
 - 🌌 **Interstellar Café** — hackathon project built with React + Three.js  
 
 ---
